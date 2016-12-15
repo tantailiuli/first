@@ -1,0 +1,89 @@
+.top_right a.li8{
+	background-color: #F77B6F;
+	color: white;
+}
+ul.top_right li.li9{
+	display: none;
+}
+.top_serch{
+	width: 130px;
+	height: 12px;
+	background: url(../images/flatlab_03.png) no-repeat 8px;
+	float: right;
+	margin-top: 40px;
+	margin-left:10px;
+	padding: 10px;
+	padding-left: 40px;
+	border:1px solid #cccccc;
+	border-radius: 6px;color: #6f6f6f;
+}
+.content{
+	width: 1144px;
+	height: 560px;
+	margin: 0 auto;
+	padding-top: 30px;
+	color: #6f6f6f;
+}
+.content_left{
+	width: 320px;
+	float: left;
+}
+.content_right{
+	width: 666px;
+	float: right;
+}
+.content_left .div1{
+	float: left;
+}
+.content_left .div2{
+	float: left;
+	margin-top: 80px;
+}
+.content_left .div1 h2{
+	font-family: 'Batang Che';
+}
+.content_left .div1 p,.content_left .div2 p{
+	margin: 0;
+	padding: 0;
+	line-height: 22px;
+}
+.content_right h2{
+	font-family: 'Batang Che';
+}
+.content_right p{
+	margin: 6px 0;
+	padding: 0;
+}
+.content_right .input1,.content_right .input2,.content_right .input3{
+	width: 630px;
+	height: 20px;
+	padding:5px 10px;
+	line-height: 20px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+}
+.content_right .input1:focus,.content_right .input2:focus,.content_right .input3:focus,.content_right .input4:focus{
+	border: 1px solid #2ad3fd;
+}
+.content_right .input4{
+	width: 630px;
+	height: 100px;
+	padding:5px 10px;
+	line-height: 30px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	outline: none;
+	max-width: 630px;
+    max-height: 200px;
+}
+.content_right .input5{
+	width: 100px;
+	height: 30px;
+	padding: 8px;
+	text-align: center;
+	color: white;
+	background: #ff6c60;
+	border:0;
+	border-radius: 5px;
+	margin-top: 20px;
+}

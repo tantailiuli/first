@@ -1,0 +1,34 @@
+.top_right a.li5{
+	background-color: #F77B6F;
+	color: white;
+}
+.content{
+	width: 1144px;
+	height: 975px;
+	margin: 0 auto;
+}
+ul.content_up{
+	height: 38px;
+	padding: 44px 0;
+}
+ul.content_up li{
+	height: 18px;
+	background: #e2e0e1;
+	float: left;
+	border-radius: 5px;
+	padding: 10px;
+	margin-right: 10px;
+	color: #7d797a;
+	cursor: pointer;
+}
+ul.content_up li:hover{
+	background-color: #F77B6F;
+	color: #fff;
+}
+ul.content_down li{
+	width: 262px;
+	height: 229px;
+	float: left;
+	margin-right: 24px;
+	margin-bottom: 24px;
+}	

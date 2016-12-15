@@ -1,0 +1,84 @@
+.top_right a.li6{
+	background-color: #F77B6F;
+	color: white;
+}
+.content{
+	width: 1144px;
+	height: 742px;
+	margin: 60px auto;
+}
+.content h1{
+	font-family: 'Batang Che';
+	text-align: center;
+}
+.content p{
+	margin: 12px 0;
+	text-align: center;
+}
+.content_ul{
+	margin-top: 60px;
+}
+.content_ul li{
+	width: 260px;
+	margin-right: 25px;
+	float: left;
+	background: #eeeeee;
+	text-align: center;
+	border-radius: 5px;
+}
+.content_ul li .div1{
+	height: 22px;
+	padding: 15px;
+}
+.content_ul li .div2{
+	height: 48px;
+	padding: 30px;
+	background: #777777;
+	font-size: 35px;
+}
+.content_ul li ul.ul1{
+	margin-top: 10px;
+}
+.content_ul li ul.ul1 li{
+	width: 230px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 10px;
+	padding-bottom: 15px;
+	border-bottom: 1px dashed #ccc;
+}
+.content_ul li .down_box{
+	height: 80px;
+}
+.content_ul li .down_box .down{
+	width: 82px;
+	height: 20px;
+	padding: 9px;
+	background: #777777;
+	border-radius: 5px;
+	margin: 10px auto;
+	cursor: pointer;
+}
+.content_ul li.z_nav{
+	color: #fff;
+}
+.content_ul li.z_nav,.content_ul li.z_nav ul.ul1 li{
+	background: #f77b6f;
+	transition: background 1s;
+}
+.content_ul li.z_nav .div1{
+	margin-bottom: 10px;
+	transition: margin-bottom 1s;
+}
+.content_ul li.z_nav .div2,.content_ul li.z_nav .down_box .down{
+	background: #d76b61;
+	transition: background 1s;
+}
+.content_ul li.z_nav .down_box{
+	margin-top: 20px;
+	transition: margin-top 1s;
+}
+.content_ul li.z_nav{
+	margin-top: -10px;
+	transition: margin-top 1s;
+}

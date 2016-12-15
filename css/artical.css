@@ -1,0 +1,166 @@
+.w1144{
+	color: #666;
+}
+.top_right a.li4{
+	background-color: #F77B6F;
+	color: white;
+}
+.heading{
+	padding: 50px 0 20px;
+}
+.heading .heading_left{
+	float: left;
+	width: 290px;
+}
+.heading_left h1,.heading_left h2,.heading_left h3,.heading_left h4,.heading_left h5,.heading_left h6{
+	margin: 12px 0;
+	font-weight: 400;
+}
+.heading .heading_mid{
+	float: left;
+	width: 450px;
+}
+.heading .heading_mid h3,.heading .heading_right h3,.artical1 div h3,.artical2 div h3,.artical3 h3,.list h3,.realartical h3{
+	margin: 12px 0;
+}
+.heading .heading_mid p{
+	line-height: 20px;
+}
+.heading .heading_right{
+	float: right;
+	width: 360px;
+}
+.heading_right p{
+	margin: 10px 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.heading_right p.p1{
+	color: #333;
+}
+.heading_right p.p2{
+	color: #a075ca;	
+}
+.heading_right p.p3{
+	color: #59ace2;	
+}
+.heading_right p.p4{
+	color: #fcb360;	
+}
+.heading_right p.p5{
+	color: #ff6c91;	
+}
+.heading_right p.p6{
+	color: #c6da84;	
+}
+.artical1 div{
+	padding: 20px 0;
+}
+.artical1 div p{
+	line-height: 20px;
+}
+.artical1 div p strong{
+	font-weight: 400;
+}
+.artical1 div p strong.str1{
+	background-color: #a19000;
+	color: #fff;
+}
+.artical1 div p strong.str2{
+	background-color: #002da1;
+	color: #fff;
+}
+.artical1 div p strong.str3{
+	background-color: #a10090;
+	color: #fff;
+}
+.artical1 div p em{
+	text-decoration: underline;
+}
+.artical1 div p b{
+	color: #000;
+}
+.artical1 div p i{
+	color: #39a100;
+}
+.artical2 div.div1{
+	float: left;
+	width: 550px;
+}
+.artical2 div.div2{
+	float: right;
+	width: 550px;
+}
+.artical2 div{
+	padding: 20px 0;
+}
+.artical2 div img{
+	float: left;
+	padding-right: 20px; 
+	width: 49px;
+	height: 71px;
+}
+.artical2 div p{
+	line-height: 20px;
+}
+.artical3 p{
+	line-height: 20px;
+}
+.artical3 div.p_box i{
+	float: left;
+	width: 5px;
+	height: 105px;
+	background-color: #999;
+}
+.artical3 div.p_box p.p2{
+	font-size: 20px;
+}
+.artical3 div.p_box{
+	padding: 20px 0;
+}
+.artical3 div.p_box p{
+	float: right;
+	width: 1100px;
+	height: 105px;
+	line-height: 26px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.list ol,.list ul{
+	float: left;
+	width: 500px;
+}
+.list ol{
+	margin: 0;
+	padding: 0;
+	margin-left: 20px;
+}
+.list li{
+	line-height: 20px;
+}
+.realartical{
+	padding: 20px 0 40px;
+}
+.realartical .real1,.realartical .real2,.realartical .real3{
+	float: left;
+	margin-right: 22px;
+	padding: 20px 0;
+	height: 160px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.realartical .real1{
+	width: 550px;
+}
+.realartical .real2{
+	width: 358px;
+}
+.realartical .real3{
+	width: 262px;
+}
+.realartical .real_right{
+	float: right;
+}
+.realartical p{
+	line-height: 20px;
+}

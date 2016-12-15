@@ -1,0 +1,165 @@
+.top_right a.li3{
+	background-color: #F77B6F;
+	color: white;
+}
+.banner{
+	width: 1144px;
+	height: 270px;
+	padding: 35px 0;
+	margin: 0 auto;
+	background: #ffffff;
+}
+.banner_up{
+	height: 256px;
+	width: 100%;
+	float: left;
+}
+.banner_img{
+	width: 460px;
+	height: 256px;
+	background: url(../images/about07.png);
+	margin-left: 20px;
+	float: right;
+}
+.banner_welcome{
+	width: 663px;
+	height: 256px;
+	float: left;
+}
+.banner_welcome h2{
+	font-family: 'Batang Che';
+	font-weight: 100px;
+	margin-bottom: 20px;
+	padding: 0;
+}
+.service_box{
+	height: 685px;
+	background: #f2f2f2;
+}
+.service{
+	height: 585px;
+	width: 1144px;
+	margin: 0 auto;
+	padding-top: 100px;
+}
+.service h1{
+	font-family: 'Batang Che';
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+.service p{
+	text-align: center;
+	font-size: 20px;
+	margin: 20px 0;
+	padding: 0;
+}
+.service ul{
+	margin-top: 50px;
+}
+.service ul li{
+	width: 530px;
+	height: 130px;
+	float: left;
+}
+.service ul li.li2,.service ul li.li4,.service ul li.li6{
+	margin-left: 80px;
+}
+.service ul li div.div1{
+	width: 60px;
+	height: 60px;
+	background: #f37d6c;
+	border-radius: 50%;
+	float: left;
+}
+.service ul li div.div2{
+	width: 440px;
+	height: 130px;
+	float: left;
+	margin-left: 30px;
+}
+.service ul li h3{
+	margin: 0;
+	padding: 0;
+	font-family: 'Batang Che';
+}
+.service ul li p{
+	margin: 0;
+	padding: 0;
+	font-size: 18px;
+	margin-top: 5px;
+	text-align: left;
+}
+.main{
+	width: 1144px;
+	height: 490px;
+	padding: 70px 0;
+	margin: 0 auto;
+}
+.main h3{
+	margin: 0;
+	padding: 0;
+	padding-bottom: 10px;
+	font-family: 'Batang Che';
+}
+.main p{
+	margin-bottom: 20px;
+}
+.main ul{
+	position: relative;
+	width: 1140px;
+}
+.main ul li{
+	width: 226px;
+	height: 60px;
+	float: left;
+	background: #6f6f6f;
+	line-height: 40px;
+	text-align: center;
+	border: 1px solid #f4f4f4;
+	color: white;
+	border-radius: 5px 5px 0 0;
+}
+.main ul li span{
+	line-height: 60px;
+	font-size: 20px;
+}
+.main ul li .nav1{
+	background: #f4f4f4;
+	position: absolute;
+	top: 60px;
+	left: 0px;
+	right: 0px; 
+	display: none;
+	height: 280px;
+	border-radius: 0 0 5px 5px;
+	padding: 15px;
+}
+.main ul li.bb .nav1{
+	display: block;
+}
+.main ul li.bb{
+	background: #f4f4f4;
+	color: black;
+}
+.main ul li div.circle_box{
+	width: 100px;
+	height: 60px;
+	float: left;
+}
+.main ul li div.circle{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background: #f37d6c;
+	float: left;
+}
+.main ul li p{
+	margin: 0;
+	padding: 0;
+	line-height: 22px;
+	text-align: left;
+	font-size: 22px;
+	color: #888888;
+	word-spacing: 3px;
+}

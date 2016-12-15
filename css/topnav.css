@@ -1,0 +1,80 @@
+.top_box{
+	height: 115px;
+	background: #fff;
+	min-width: 1144px;
+	border-bottom: 1px solid #e6e6e6;
+}	
+.top{width: 1144px;
+	height: 115px;
+	margin: 0 auto;
+}
+.top_left{width: 150px;
+	height: 115px;
+	font-size: 40px;
+	line-height: 115px;
+	float: left;}
+.top_left span{
+	float: left;
+	height: 115px;
+	line-height: 115px;
+}
+.top_left span.span1{
+	color: #777777;
+}
+.top_left span.span2{
+	color: #F45F5B;
+}
+.top_right{
+	height: 46px;
+	float: right;
+	padding: 34px 0;
+}
+.top_right a{
+	padding: 0 15px;
+	float: left;
+	font-size: 20px;
+	color: #6f6f6f;
+	line-height: 46px;
+	border-radius: 5px;
+}
+.top_right a:hover{
+	color:#F77B6F;
+}
+.top_right a.li9{
+	width: 45px;
+	height: 46px;
+	background: url(../images/flatlab01.png) no-repeat center;
+}
+.nav_box{
+	background: #475268;
+	height: 138px;
+	min-width: 1144px;
+}
+.nav{
+	height: 138px;
+	width: 1144px;
+	margin: 0 auto;
+}
+.nav span{
+	float: left;
+	font-size: 26px;
+	font-family:'Cambria';
+	word-spacing: 10px;
+	letter-spacing: 0;
+	color: #ffffff;
+	line-height: 138px;
+	text-shadow: 1px 0 1px #E2BE68;
+}
+.nav ul{
+	padding: 60px 0;
+	float: right;
+}
+.nav ul li{
+	font-size: 18px;
+	float: left;
+	padding: 0 5px;
+	color: #ffffff;
+}
+.nav ul li.li1,.nav ul li.li3{
+	color: #F77B6F;
+}

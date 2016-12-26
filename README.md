@@ -5,9 +5,9 @@
 * 超文本标记语言部分
               
              **此内容请到指定网址浏览**[look](https://github.com/tantailiuli/lma-ourteam)
-* HTML
+* HTML       
 
-			**Please browse the specified URL**[look](https://github.com/lma-ourteam)
+		**Please browse the specified URL**[look](https://github.com/lma-ourteam)
 * 层叠样式表部分
                
                全部采用兼容样式

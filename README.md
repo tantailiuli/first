@@ -4,10 +4,10 @@
 ## This is an English website of ourteam.The main body of a total of 8 pages, including a home page, the 7 branch by category.
 * 超文本标记语言部分
               
-             **此内容请到指定网址浏览**[look](https://github.com/tantailiuli/lively_magic_architect_first_web)
+             **此内容请到指定网址浏览**[look](https://github.com/tantailiuli/lma-ourteam)
 * HTML
              
-             **Please browse the specified URL**[look](https://github.com/tantailiuli/lively_magic_architect_first_web)
+             *Please browse the specified URL*[look](https://github.com/lma-ourteam)
 * 层叠样式表部分
                
                全部采用兼容样式

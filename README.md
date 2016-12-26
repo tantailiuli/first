@@ -17,8 +17,8 @@
 * 脚本部分
              
              1.轮播图js部分采用干掉所有点亮自己思想。
-             2.置顶动画采用定时器。
-             3.其余大多为DOM事件。
+ 			 2.置顶动画采用定时器。
+ 			 3.其余大多为DOM事件。
 * JS
              
              1.Figure JS the carousel kill all the light of his thoughts.

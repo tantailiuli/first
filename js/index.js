@@ -85,27 +85,27 @@ Array.prototype.forEach = function(callback){
 	/*底部轮播图*/
 	var btbData = [
 		{
-			href : "#",
+			href : "http://image.baidu.com",
 			url : "./images/exhibition01.png"
 		},
 		{
-			href : "#",
+			href : "http://image.baidu.com",
 			url : "./images/exhibition02.png"
 		},
 		{
-			href : "#",
+			href : "http://image.baidu.com",
 			url : "./images/exhibition03.png"
 		},
 		{
-			href : "#",
+			href : "http://image.baidu.com",
 			url : "./images/exhibition04.png"
 		},
 		{
-			href : "#",
+			href : "http://image.baidu.com",
 			url : "./images/exhibition05.png"
 		},
 		{
-			href : "#",
+			href : "http://image.baidu.com",
 			url : "./images/exhibition06.png"
 		}
 	];

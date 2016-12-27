@@ -64,6 +64,10 @@
 	height: 50px;
 	background: #efeee9;
 	float: left;
+	text-align: center;
+	line-height: 50px;
+	color: #ff571a;
+	font-size: 20px;
 }
 .data_2b{
 	width: 120px;
@@ -105,19 +109,19 @@
 	height: 329px;
 }
 .reading_1{
-	background: url(../images/blogleft01.png);
+	background: url(../images/blogleft01.png) no-repeat;
 }
 .reading_2{
-	background: url(../images/blogleft02.png);
+	background: url(../images/blogleft02.png) no-repeat;
 }
 .reading_3{
-	background: url(../images/blogleft03.png);
+	background: url(../images/blogleft03.png) no-repeat;
 }
 .reading_4{
-	background: url(../images/blogleft04.png);
+	background: url(../images/blogleft04.png) no-repeat;
 }
 .reading_5{
-	background: url(../images/blogleft05.png);
+	background: url(../images/blogleft05.png) no-repeat;
 }
 .reading p.p1{
 	font-size: 28px;
@@ -158,6 +162,13 @@
 	text-align: center;
 	line-height: 30px;
 	border-right:1px solid #ddd;
+}
+.content_left ul.ul2 li.li7{
+	border-right: 0;
+}
+.content_left ul.ul2 li:hover{
+	background-color: #ff6c60;
+	color: #fff;
 }
 .content_left ul.ul2 li.li2{
 	background: #ff6c60;

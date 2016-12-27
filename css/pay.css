@@ -62,23 +62,28 @@
 .content_ul li.z_nav{
 	color: #fff;
 }
-.content_ul li.z_nav,.content_ul li.z_nav ul.ul1 li{
+.content_ul li.z_nav{
 	background: #f77b6f;
 	transition: background 1s;
 }
+.content_ul li.z_nav ul.ul1 li{
+	background: #f77b6f;
+}
 .content_ul li.z_nav .div1{
 	margin-bottom: 10px;
-	transition: margin-bottom 1s;
+	transition: margin-bottom 0.5s;
 }
 .content_ul li.z_nav .div2,.content_ul li.z_nav .down_box .down{
 	background: #d76b61;
-	transition: background 1s;
 }
 .content_ul li.z_nav .down_box{
 	margin-top: 20px;
-	transition: margin-top 1s;
+	transition: margin-top 0.5s;
 }
 .content_ul li.z_nav{
 	margin-top: -10px;
-	transition: margin-top 1s;
+	transition: margin-top 0.5s;
+}
+.content_ul li.z_nav .down_box .down:hover{
+	background-color: #666;
 }

@@ -50,9 +50,10 @@ ul.top_right li.li9{
 .content_right h2{
 	font-family: 'Batang Che';
 }
-.content_right p{
+.content_right label{
+	float: left;
 	margin: 6px 0;
-	padding: 0;
+	padding: 6px 0;
 }
 .content_right .input1,.content_right .input2,.content_right .input3{
 	width: 630px;

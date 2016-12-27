@@ -36,6 +36,7 @@
 	color: #6f6f6f;
 	line-height: 46px;
 	border-radius: 5px;
+	behavior: url(ie-css3.htc);
 }
 .top_right a:hover{
 	color:#F77B6F;

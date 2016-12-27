@@ -34,10 +34,17 @@ ul.top_right li.li9{
 }
 .content_left .div1{
 	float: left;
+	overflow: hidden;
 }
 .content_left .div2{
 	float: left;
+	width: 100%;
 	margin-top: 80px;
+	overflow: hidden;
+}
+.content_left .div2 p{
+	width: 100%;
+	float: left;
 }
 .content_left .div1 h2{
 	font-family: 'Batang Che';

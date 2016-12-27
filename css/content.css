@@ -56,10 +56,12 @@
 }
 .service ul{
 	margin-top: 50px;
+	overflow: hidden;
 }
 .service ul li{
 	width: 530px;
 	height: 130px;
+	padding: 10px 0;
 	float: left;
 }
 .service ul li.li2,.service ul li.li4,.service ul li.li6{
@@ -134,6 +136,7 @@
 	height: 280px;
 	border-radius: 0 0 5px 5px;
 	padding: 15px;
+	overflow: auto;
 }
 .main ul li.bb .nav1{
 	display: block;

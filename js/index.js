@@ -20,7 +20,7 @@ Array.prototype.forEach = function(callback){
 	b[0].style.filter='alpha(opacity=100)';
 	function name1(){ 
 	 	for (var i = 0; i < a.length; i++) {
-				a[i].style.background='cyan';
+				a[i].style.background='#fff';
 				b[i].style.opacity='0';
 				b[i].style.filter='alpha(opacity=0)';
 				b[i].style.transition='all 0.6s';

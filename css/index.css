@@ -322,7 +322,6 @@
 .banner_box .banner{
 	position: relative;
 	width: 1800px;
-	transition: all 1s ease;
 }
 .banner_box .banner a{
 	float: left;

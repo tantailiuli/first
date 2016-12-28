@@ -1,19 +1,5 @@
-
 var totop = document.getElementById('to_top');
 totop.style.display = "none";
-var totoptime = function(){
-	clearInterval(timer);
-	var y = 0;
-	var timer = setInterval(function(){
-		if(y== 200){
-			y=0;
-		}
-		y += 10;
-		totop.style.backgroundPosition = "0 -" + y + "px";
-	},50);
-}
-totoptime();
-
 totop.onclick = function(){
 	var scroll = document.documentElement.scrollTop || document.body.scrollTop;
 	var timer = setInterval(function(){

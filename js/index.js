@@ -127,12 +127,28 @@ var btnright = document.createElement('div'),
 	btnleft = document.createElement('div');
 	btnright.className = "btnr";
 	btnleft.className = "btnl";
+btnleft.style.display="none";
 btnleft.onclick = function(){
-	btb.style.left = 0;
+	var b = -580;
+	var timer1 = setInterval(function(){
+		b+=6;
+		if(b==2){b=0;}
+		btb.style.left=b + "px";
+		b==0 && clearInterval(timer1);
+	},9.6);
+	this.style.display="none";
+	btnright.style.display="block";
 }
 btnright.onclick = function(){
-	var awidth = 287;
-	btb.style.left = -2*awidth + "px";
+	var a = 0;
+	var timer2 =setInterval(function(){
+		btb.style.left = -a + "px";
+		a+=6;
+		if(a==576){a=574;}
+		a==580 && clearInterval(timer2);
+	},9.6);
+	this.style.display="none";
+	btnleft.style.display="block";
 }
 btb.appendChild(btbfragment);
 btb.appendChild(div);
